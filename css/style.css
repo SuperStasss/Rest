@@ -5,10 +5,11 @@ body {
     margin: 0 166px;
 }
 .header {
-    background-image: url("../img/fon.jpg");
-    height: 100vh;
-    background-repeat: no-repeat;
+    background: url("../img/header-bg-min.png") 0 0 no-repeat;
+    height: 800px;
+    width: 1440px;
     background-size: cover;
+    display: block;
 }
 
 .header-line {
